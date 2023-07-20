@@ -10,7 +10,7 @@ tags:
   - 2016
 ---
 
-Un des  algorithmes  de [[Google]] mis en place en septembre 2006 et qualifié comme tel par la communauté [[20210807192453]] SEO qui avait noté des changements importants dans les résultats même si Google n'avait pas confirmé cette mise à jour. Parmi les résultats figuraient les changements au niveau de la recherche locale.
+Un des  [[20210823182921]] Algorithmes de Google mis en place en septembre 2006 et qualifié comme tel par la communauté [[20210807192453]] SEO qui avait noté des changements importants dans les résultats même si [[20210807185404]] Google n'avait pas confirmé cette mise à jour. Parmi les résultats figuraient les changements au niveau de la recherche locale.
 
 
 ## Caractéristiques clés
